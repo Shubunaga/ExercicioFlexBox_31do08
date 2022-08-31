@@ -299,6 +299,7 @@ body {
 
 	.videoSobre-sobre-item {
 		margin-top: 5px;
+		font-weight: bold;
 		width: auto;
 		text-align: center;
 	}
@@ -307,6 +308,19 @@ body {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+	}
+
+	.videoSobre-button{
+		margin-top: auto;
+		font-weight: bold;
+		font-size: large;
+		width: 100%;
+	}
+
+	.rodapePrincipal-navMap-link {
+		display: flex;
+		flex-wrap: wrap;
+		font-weight: bold;
 	}
 
 }
